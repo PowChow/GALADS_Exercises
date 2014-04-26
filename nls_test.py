@@ -6,6 +6,8 @@ correct arguments but no implementation) and some tests that will pass *if*
 you fill in the correct implementation for each function. If you run this file
  (i.e. run `python nlp_exercise.py` from your shell) and it does not throw
  any errors, then you have finished the exercise!
+
+April 4, 2014 - PC Edited and completed exercise. The code sucessfully runs all tests! 
 '''
 
 # Question 1: Normalization and Tokenization
